@@ -10,6 +10,10 @@
 * Multi-Language support
 
 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Keyyasst/KeyyXMusic"> <img 
+src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+
+
 # ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
 
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
